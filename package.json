@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-foo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">=2.0"
+  },
+  "devDependencies": {
+    "eslint": "^2.10.1"
+  }
+}
